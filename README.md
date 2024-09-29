@@ -1,5 +1,4 @@
 
-```markdown
 # Iris Species Prediction Web Application
 
 This project implements a simple web application that predicts the species of an Iris flower based on user input features. The application uses a **Decision Tree Classifier** trained on the Iris dataset from Scikit-learn. It also demonstrates the use of **FastAPI** for serving the model as a REST API and **Streamlit** for building a web interface.
@@ -33,7 +32,7 @@ The application consists of three components:
    ```bash
    git clone https://github.com/yourusername/iris-prediction-app.git
    cd iris-prediction-app
-   ```
+
 
 2. **Create a virtual environment:**
    ```bash
@@ -140,4 +139,3 @@ This project is licensed under the MIT License.
 3. **`train_model.py`**:
     This file is responsible for training the model using Scikit-learn’s Decision Tree Classifier and saving it as `model.joblib`.
 
-Make sure to organize your project structure properly with the necessary files.
