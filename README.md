@@ -1,7 +1,7 @@
 
 # Iris Species Prediction Web Application
 
-This project implements a simple web application that predicts the species of an Iris flower based on user input features. The application uses a **Decision Tree Classifier** trained on the Iris dataset from Scikit-learn. It also demonstrates the use of **FastAPI** for serving the model as a REST API and **Streamlit** for building a web interface.
+This project implements a simple web application that predicts the species of an Iris flower based on user input features. The application uses a **Decision Tree Classifier** trained on the Iris dataset from Scikit-learn. It also demonstrates the use of **FastAPI** for serving the model as a REST API and **Streamlit** for building a web interface and streamlit.io for deployment
 
 ## Table of Contents
 - [Introduction](#introduction)
